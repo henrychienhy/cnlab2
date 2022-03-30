@@ -1,1 +1,3 @@
-# cnlab2
+# CNLab Lab 2
+
+readme needs editing.
